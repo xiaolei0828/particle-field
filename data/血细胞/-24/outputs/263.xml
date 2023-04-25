@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>-24</folder>
+<filename>263.png</filename>
+<path>/home/w/zxl/-24/263.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>961</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>302</xmin>
+        <ymin>145</ymin>
+        <xmax>455</xmax>
+        <ymax>307</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>753</xmin>
+        <ymin>323</ymin>
+        <xmax>905</xmax>
+        <ymax>478</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>960</xmin>
+        <ymin>717</ymin>
+        <xmax>1107</xmax>
+        <ymax>867</ymax>
+    </bndbox>
+</object>
+</annotation>

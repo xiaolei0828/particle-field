@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>40</folder>
+<filename>411.jpg</filename>
+<path>/home/w/zxl/40/411.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>235</xmin>
+        <ymin>695</ymin>
+        <xmax>466</xmax>
+        <ymax>902</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2118</xmin>
+        <ymin>701</ymin>
+        <xmax>2328</xmax>
+        <ymax>884</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2367</xmin>
+        <ymin>668</ymin>
+        <xmax>2554</xmax>
+        <ymax>857</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2289</xmin>
+        <ymin>1181</ymin>
+        <xmax>2524</xmax>
+        <ymax>1403</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1490</xmin>
+        <ymin>-7</ymin>
+        <xmax>1722</xmax>
+        <ymax>202</ymax>
+    </bndbox>
+</object>
+</annotation>

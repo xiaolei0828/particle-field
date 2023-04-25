@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>-40</folder>
+<filename>172.jpg</filename>
+<path>/home/w/zxl/-40/172.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1175</xmin>
+        <ymin>617</ymin>
+        <xmax>1352</xmax>
+        <ymax>794</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>509</xmin>
+        <ymin>935</ymin>
+        <xmax>695</xmax>
+        <ymax>1127</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>737</xmin>
+        <ymin>1181</ymin>
+        <xmax>923</xmax>
+        <ymax>1379</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1211</xmin>
+        <ymin>1022</ymin>
+        <xmax>1403</xmax>
+        <ymax>1208</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1223</xmin>
+        <ymin>1268</ymin>
+        <xmax>1427</xmax>
+        <ymax>1451</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1932</xmin>
+        <ymin>1262</ymin>
+        <xmax>2142</xmax>
+        <ymax>1475</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2178</xmin>
+        <ymin>1403</ymin>
+        <xmax>2388</xmax>
+        <ymax>1596</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1611</xmin>
+        <ymin>1779</ymin>
+        <xmax>1815</xmax>
+        <ymax>1953</ymax>
+    </bndbox>
+</object>
+</annotation>

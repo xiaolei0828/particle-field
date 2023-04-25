@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>8</folder>
+<filename>73.png</filename>
+<path>/home/w/zxl/8/73.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>961</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>661</xmin>
+        <ymin>560</ymin>
+        <xmax>783</xmax>
+        <ymax>673</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>400</xmin>
+        <ymin>205</ymin>
+        <xmax>537</xmax>
+        <ymax>335</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>785</xmin>
+        <ymin>211</ymin>
+        <xmax>913</xmax>
+        <ymax>341</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>637</xmin>
+        <ymin>11</ymin>
+        <xmax>756</xmax>
+        <ymax>135</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>732</xmin>
+        <ymin>-8</ymin>
+        <xmax>850</xmax>
+        <ymax>96</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>943</xmin>
+        <ymin>100</ymin>
+        <xmax>1063</xmax>
+        <ymax>227</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>941</xmin>
+        <ymin>251</ymin>
+        <xmax>1059</xmax>
+        <ymax>366</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1017</xmin>
+        <ymin>270</ymin>
+        <xmax>1121</xmax>
+        <ymax>377</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1073</xmin>
+        <ymin>231</ymin>
+        <xmax>1186</xmax>
+        <ymax>339</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1165</xmin>
+        <ymin>437</ymin>
+        <xmax>1280</xmax>
+        <ymax>546</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>821</xmin>
+        <ymin>598</ymin>
+        <xmax>951</xmax>
+        <ymax>719</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>356</xmin>
+        <ymin>808</ymin>
+        <xmax>490</xmax>
+        <ymax>922</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>58</xmin>
+        <ymin>652</ymin>
+        <xmax>186</xmax>
+        <ymax>766</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21</xmin>
+        <ymin>822</ymin>
+        <xmax>145</xmax>
+        <ymax>939</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1170</xmin>
+        <ymin>671</ymin>
+        <xmax>1285</xmax>
+        <ymax>791</ymax>
+    </bndbox>
+</object>
+</annotation>

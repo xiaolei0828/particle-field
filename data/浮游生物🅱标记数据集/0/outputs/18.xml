@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>0</folder>
+<filename>18.jpg</filename>
+<path>/home/w/zxl/fuyou/zong/0/18.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>270</xmin>
+        <ymin>405</ymin>
+        <xmax>582</xmax>
+        <ymax>745</ymax>
+    </bndbox>
+</object>
+</annotation>

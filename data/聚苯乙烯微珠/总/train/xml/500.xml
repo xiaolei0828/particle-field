@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>80</folder>
+<filename>500.jpg</filename>
+<path>/home/w/zxl/80/500.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>665</xmin>
+        <ymin>1040</ymin>
+        <xmax>968</xmax>
+        <ymax>1304</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1099</xmin>
+        <ymin>641</ymin>
+        <xmax>1339</xmax>
+        <ymax>872</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1234</xmin>
+        <ymin>399</ymin>
+        <xmax>1486</xmax>
+        <ymax>655</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>60</folder>
+<filename>488.jpg</filename>
+<path>/home/w/zxl/60/488.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>962</xmin>
+        <ymin>313</ymin>
+        <xmax>1211</xmax>
+        <ymax>551</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2043</xmin>
+        <ymin>626</ymin>
+        <xmax>2301</xmax>
+        <ymax>881</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>382</xmin>
+        <ymin>1460</ymin>
+        <xmax>677</xmax>
+        <ymax>1719</ymax>
+    </bndbox>
+</object>
+</annotation>

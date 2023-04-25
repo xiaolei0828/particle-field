@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>80</folder>
+<filename>157.jpg</filename>
+<path>/home/w/zxl/80/157.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:80</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1415</xmin>
+        <ymin>632</ymin>
+        <xmax>1671</xmax>
+        <ymax>902</ymax>
+    </bndbox>
+</object>
+</annotation>

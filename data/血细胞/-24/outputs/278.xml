@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>-24</folder>
+<filename>278.png</filename>
+<path>/home/w/zxl/-24/278.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>961</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>218</xmin>
+        <ymin>409</ymin>
+        <xmax>359</xmax>
+        <ymax>541</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>139</xmin>
+        <ymin>525</ymin>
+        <xmax>278</xmax>
+        <ymax>648</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>846</xmin>
+        <ymin>265</ymin>
+        <xmax>971</xmax>
+        <ymax>400</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1030</xmin>
+        <ymin>280</ymin>
+        <xmax>1151</xmax>
+        <ymax>412</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1108</xmin>
+        <ymin>149</ymin>
+        <xmax>1237</xmax>
+        <ymax>271</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>671</xmin>
+        <ymin>352</ymin>
+        <xmax>789</xmax>
+        <ymax>472</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-24</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>765</xmin>
+        <ymin>380</ymin>
+        <xmax>903</xmax>
+        <ymax>522</ymax>
+    </bndbox>
+</object>
+</annotation>

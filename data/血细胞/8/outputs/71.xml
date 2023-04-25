@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>8</folder>
+<filename>71.png</filename>
+<path>/home/w/zxl/8/71.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>961</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>28</xmin>
+        <ymin>662</ymin>
+        <xmax>139</xmax>
+        <ymax>766</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1138</xmin>
+        <ymin>89</ymin>
+        <xmax>1251</xmax>
+        <ymax>208</ymax>
+    </bndbox>
+</object>
+</annotation>

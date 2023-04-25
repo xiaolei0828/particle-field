@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>8</folder>
+<filename>62.png</filename>
+<path>/home/w/zxl/8/62.png</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>961</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>789</xmin>
+        <ymin>557</ymin>
+        <xmax>928</xmax>
+        <ymax>691</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1039</xmin>
+        <ymin>536</ymin>
+        <xmax>1149</xmax>
+        <ymax>657</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:8</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1121</xmin>
+        <ymin>562</ymin>
+        <xmax>1233</xmax>
+        <ymax>679</ymax>
+    </bndbox>
+</object>
+</annotation>

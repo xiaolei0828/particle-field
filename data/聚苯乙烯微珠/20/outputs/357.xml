@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>20</folder>
+<filename>357.jpg</filename>
+<path>/home/w/zxl/20/357.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:20</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1049</xmin>
+        <ymin>602</ymin>
+        <xmax>1247</xmax>
+        <ymax>791</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:20</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1489</xmin>
+        <ymin>312</ymin>
+        <xmax>1666</xmax>
+        <ymax>480</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:20</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2379</xmin>
+        <ymin>130</ymin>
+        <xmax>2590</xmax>
+        <ymax>331</ymax>
+    </bndbox>
+</object>
+</annotation>

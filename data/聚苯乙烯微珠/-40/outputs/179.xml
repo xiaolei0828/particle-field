@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>-40</folder>
+<filename>179.jpg</filename>
+<path>/home/w/zxl/-40/179.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2560</width>
+    <height>1922</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>740</xmin>
+        <ymin>638</ymin>
+        <xmax>926</xmax>
+        <ymax>821</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>938</xmin>
+        <ymin>1331</ymin>
+        <xmax>1136</xmax>
+        <ymax>1524</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>depth:-40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1205</xmin>
+        <ymin>674</ymin>
+        <xmax>1391</xmax>
+        <ymax>863</ymax>
+    </bndbox>
+</object>
+</annotation>
